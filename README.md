@@ -1,32 +1,30 @@
 # MultiThread AutoClicker
 
-## Описание
-MultiThread AutoClicker — это инструмент, предназначенный для автоматизации кликов с высокой эффективностью. Установив задержку на ноль и используя большое количество потоков, пользователи могут достигнуть превосходной производительности.
+## Description
+MultiThread AutoClicker is a tool designed to automate clicks with high efficiency. It allows you to configure latency and the number of threads for optimal performance.
 
-## Особенности
-- Многопоточная работа
-- Настраиваемая задержка
-- Регулируемое количество потоков
+## Features
+- User-friendly interface for easy setup
+- Sequential mouse movement
+- Support for pixel selection
 
-## Установка
-1. Клонируйте репозиторий:
+## Installation
+1. Clone the repository:
     ```sh
     git clone https://github.com/konostrail/multithreadAutoClicker.git
     ```
-2. Перейдите в директорию проекта:
+2. Navigate to the project directory:
     ```sh
     cd multithreadAutoClicker
     ```
-3. Откройте решение в Visual Studio и соберите проект.
+3. Open the solution in Visual Studio and build the project(or you can just download it from releases).
 
-4. Запуск. На F9 начинаются клики, на F10 заканчиваются
+4. Run the application. Press F9 to start clicking and F10 to stop.
 
-## Использование
-1. Запустите скомпилированное приложение.
-2. Установите желаемую задержку и количество потоков через интерфейс программы.
-3. На F9 начинаются клики, на F10 заканчиваются
-## Вклад
-вклады приветствуются! форкните репозиторий и создайте pull request с вашими изменениями.
+## Usage
+1. Launch the compiled application.
+2. Configure the desired latency and the number of threads through the program's interface.
+3. Press F9 to start clicking and F10 to stop.
 
-## Контакты
-По любым вопросам или проблемам, пожалуйста, свяжитесь с [konostrail](https://github.com/konostrail).
+## Contribution
+Contributions are welcome! Fork the repository and create a pull request with your changes.
