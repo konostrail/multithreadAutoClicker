@@ -4,9 +4,9 @@
 MultiThread AutoClicker is a tool designed to automate clicks with high efficiency. It allows you to configure latency and the number of threads for optimal performance.
 
 ## Features
-- User-friendly interface for easy setup
-- Sequential mouse movement
-- Support for pixel selection
+- User-friendly interface for easy setup.
+- Sequential mouse movement.
+- Support for pixel color selection.
 
 ## Installation
 1. Clone the repository:
